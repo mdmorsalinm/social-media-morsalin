@@ -1,0 +1,47 @@
+body {
+    background: rgb(182, 197, 196);
+   
+}
+
+
+#posts {
+    display: flex;
+    width: 100%;
+}
+
+
+.post {
+    min-width: 200px;
+    max-width: 300px;
+    color: black;
+    background-color: rgb(161, 221, 201);
+    border-radius: 2px solid rgb(35, 39, 48);
+    padding: 20px;
+    margin-left: 10px;
+}
+
+
+
+
+div img {
+    width: 100px;
+}
+
+
+div h6 {
+    font-size: 15px;
+}
+
+
+div p {
+    font-size: 12px;
+}
+
+
+h1 {
+    padding: 20px;
+}
+
+div h4 {
+    font-size: 13px;
+}
